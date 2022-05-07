@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="62" viewBox="0 0 64 62">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00ffed"/>
+      <stop offset="1" stop-color="#00b8ba"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_105" data-name="Group 105" transform="translate(-159 -766)">
+    <path id="Path_358" data-name="Path 358" d="M32,0C49.673,0,64,13.879,64,31S49.673,62,32,62,0,48.121,0,31,14.327,0,32,0Z" transform="translate(159 766)" opacity="0.2" fill="url(#linear-gradient)"/>
+    <path id="Icon_ionic-md-videocam" data-name="Icon ionic-md-videocam" d="M24.25,14.859V9.316a1.572,1.572,0,0,0-1.556-1.581H3.806A1.572,1.572,0,0,0,2.25,9.316V25.147a1.577,1.577,0,0,0,1.556,1.588H22.694a1.576,1.576,0,0,0,1.556-1.581V19.609l6,6.331V8.528Z" transform="translate(175.75 779.266)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="707" height="514" viewBox="0 0 707 514">
+  <defs>
+    <filter id="Rectangle_77" x="0" y="0" width="707" height="514" filterUnits="userSpaceOnUse">
+      <feOffset dy="25" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_94" data-name="Group 94" transform="translate(-149 -429)">
+    <g transform="matrix(1, 0, 0, 1, 149, 429)" filter="url(#Rectangle_77)">
+      <rect id="Rectangle_77-2" data-name="Rectangle 77" width="617" height="424" rx="10" transform="translate(45 20)" fill="#fff"/>
+    </g>
+    <text id="RECENT_REPORT" data-name="RECENT REPORT" transform="translate(214 481)" fill="#707070" font-size="12" font-family="SegoeUI, Segoe UI" letter-spacing="0.02em"><tspan x="0" y="0">RECENT REPORT</tspan></text>
+    <g id="Group_81" data-name="Group 81" transform="translate(252.5 548.44)">
+      <line id="Line_56" data-name="Line 56" y2="210" transform="translate(0)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+      <line id="Line_57" data-name="Line 57" x2="520.324" transform="translate(0 210)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+      <line id="Line_58" data-name="Line 58" x2="520.324" transform="translate(0 175)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+      <line id="Line_59" data-name="Line 59" x2="520.324" transform="translate(0 140)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+      <line id="Line_60" data-name="Line 60" x2="520.324" transform="translate(0 105)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+      <line id="Line_61" data-name="Line 61" x2="520.324" transform="translate(0 70)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+      <line id="Line_62" data-name="Line 62" x2="520.324" transform="translate(0 35)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+      <line id="Line_63" data-name="Line 63" x2="520.324" transform="translate(0)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+    </g>
+    <text id="_0" data-name="0" transform="translate(224 773)" fill="#707070" font-size="12" font-family="SegoeUI, Segoe UI" letter-spacing="0.02em"><tspan x="0" y="0">0</tspan></text>
+    <text id="Jan" transform="translate(242 789)" fill="#707070" font-size="12" font-family="SegoeUI, Segoe UI" letter-spacing="0.02em"><tspan x="0" y="0">Jan</tspan></text>
+    <text id="Feb" transform="translate(322 789)" fill="#707070" font-size="12" font-family="SegoeUI, Segoe UI" letter-spacing="0.02em"><tspan x="0" y="0">Feb</tspan></text>
+    <text id="March" transform="translate(384 789)" fill="#707070" font-size="12" font-family="SegoeUI, Segoe UI" letter-spacing="0.02em"><tspan x="0" y="0">March</tspan></text>
+    <text id="April" transform="translate(457 789)" fill="#707070" font-size="12" font-family="SegoeUI, Segoe UI" letter-spacing="0.02em"><tspan x="0" y="0">April</tspan></text>
+    <text id="May" transform="translate(537 789)" fill="#707070" font-size="12" font-family="SegoeUI, Segoe UI" letter-spacing="0.02em"><tspan x="0" y="0">May</tspan></text>
+    <text id="June" transform="translate(613 789)" fill="#707070" font-size="12" font-family="SegoeUI, Segoe UI" letter-spacing="0.02em"><tspan x="0" y="0">June</tspan></text>
+    <text id="July" transform="translate(690 789)" fill="#707070" font-size="12" font-family="SegoeUI, Segoe UI" letter-spacing="0.02em"><tspan x="0" y="0">July</tspan></text>
+    <text id="Aug" transform="translate(755 789)" fill="#707070" font-size="12" font-family="SegoeUI, Segoe UI" letter-spacing="0.02em"><tspan x="0" y="0">Aug</tspan></text>
+    <text id="_10" data-name="10" transform="translate(224 735)" fill="#707070" font-size="12" font-family="SegoeUI, Segoe UI" letter-spacing="0.02em"><tspan x="0" y="0">10</tspan></text>
+    <text id="_20" data-name="20" transform="translate(224 697)" fill="#707070" font-size="12" font-family="SegoeUI, Segoe UI" letter-spacing="0.02em"><tspan x="0" y="0">20</tspan></text>
+    <text id="_30" data-name="30" transform="translate(224 661)" fill="#707070" font-size="12" font-family="SegoeUI, Segoe UI" letter-spacing="0.02em"><tspan x="0" y="0">30</tspan></text>
+    <text id="_40" data-name="40" transform="translate(224 623)" fill="#707070" font-size="12" font-family="SegoeUI, Segoe UI" letter-spacing="0.02em"><tspan x="0" y="0">40</tspan></text>
+    <text id="_50" data-name="50" transform="translate(224 585)" fill="#707070" font-size="12" font-family="SegoeUI, Segoe UI" letter-spacing="0.02em"><tspan x="0" y="0">50</tspan></text>
+    <text id="_60" data-name="60" transform="translate(224 547)" fill="#707070" font-size="12" font-family="SegoeUI, Segoe UI" letter-spacing="0.02em"><tspan x="0" y="0">60</tspan></text>
+    <g id="Group_80" data-name="Group 80" transform="translate(551 837)">
+      <text id="Front-end" transform="translate(22 13)" fill="#707070" font-size="12" font-family="SegoeUI, Segoe UI" letter-spacing="0.02em"><tspan x="0" y="0">Front-end</tspan></text>
+      <text id="Front-Back" transform="translate(163 13)" fill="#707070" font-size="12" font-family="SegoeUI, Segoe UI" letter-spacing="0.02em"><tspan x="0" y="0">Front-Back</tspan></text>
+      <circle id="Ellipse_51" data-name="Ellipse 51" cx="5.5" cy="5.5" r="5.5" transform="translate(0 3)" fill="#4791ff"/>
+      <circle id="Ellipse_67" data-name="Ellipse 67" cx="5.5" cy="5.5" r="5.5" transform="translate(141 3)" fill="#02bc77"/>
+    </g>
+    <circle id="Ellipse_52" data-name="Ellipse 52" cx="4" cy="4" r="4" transform="translate(249 668)" fill="#4791ff"/>
+    <circle id="Ellipse_53" data-name="Ellipse 53" cx="4" cy="4" r="4" transform="translate(329 602)" fill="#4791ff"/>
+    <circle id="Ellipse_54" data-name="Ellipse 54" cx="4" cy="4" r="4" transform="translate(401 635)" fill="#4791ff"/>
+    <circle id="Ellipse_55" data-name="Ellipse 55" cx="4" cy="4" r="4" transform="translate(476 602)" fill="#4791ff"/>
+    <circle id="Ellipse_56" data-name="Ellipse 56" cx="4" cy="4" r="4" transform="translate(548 668)" fill="#4791ff"/>
+    <circle id="Ellipse_57" data-name="Ellipse 57" cx="4" cy="4" r="4" transform="translate(621 700)" fill="#4791ff"/>
+    <circle id="Ellipse_58" data-name="Ellipse 58" cx="4" cy="4" r="4" transform="translate(708 635)" fill="#4791ff"/>
+    <circle id="Ellipse_59" data-name="Ellipse 59" cx="4" cy="4" r="4" transform="translate(768 602)" fill="#4791ff"/>
+    <g id="Group_79" data-name="Group 79" transform="translate(249 608.001)">
+      <circle id="Ellipse_60" data-name="Ellipse 60" cx="4" cy="4" r="4" transform="translate(519 89)" fill="#02bc77"/>
+      <circle id="Ellipse_61" data-name="Ellipse 61" cx="4" cy="4" r="4" transform="translate(372 58)" fill="#02bc77"/>
+      <circle id="Ellipse_62" data-name="Ellipse 62" cx="4" cy="4" r="4" transform="translate(299)" fill="#02bc77"/>
+      <circle id="Ellipse_63" data-name="Ellipse 63" cx="4" cy="4" r="4" transform="translate(225 29)" fill="#02bc77"/>
+      <circle id="Ellipse_64" data-name="Ellipse 64" cx="4" cy="4" r="4" transform="translate(151 90)" fill="#02bc77"/>
+      <circle id="Ellipse_65" data-name="Ellipse 65" cx="4" cy="4" r="4" transform="translate(68 60)" fill="#02bc77"/>
+      <circle id="Ellipse_66" data-name="Ellipse 66" cx="4" cy="4" r="4" transform="translate(0 120)" fill="#02bc77"/>
+    </g>
+    <line id="Line_105" data-name="Line 105" x2="617" transform="translate(194 503)" fill="none" stroke="#efefef" stroke-width="1"/>
+    <line id="Line_106" data-name="Line 106" x2="617" transform="translate(194 818)" fill="none" stroke="#efefef" stroke-width="1"/>
+    <path id="Path_380" data-name="Path 380" d="M222.032,1003.955s46.2-61.034,74.406-61.034,48.1,32.814,73.3,30.965,46.387-59.62,74.447-60.082,52.112-30.5,74.446-30.041,49.821,58.7,75.018,59.157S645.2,913.093,668.1,913.8s73.874,60.082,73.874,60.082" transform="translate(30.968 -272.282)" fill="none" stroke="#02bc77" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path_379" data-name="Path 379" d="M223.031,755.955s45.344-60.583,75.047-60.583,55.446,30.894,73.2,30.894,42.75-29.923,71.952-30.894,55.722,60.693,77.477,60.583,59.438,29.006,73.854,29.006,44.131-56.775,73.855-58.7,74.425-32.21,75-30.894" transform="translate(30.968 -85.936)" fill="none" stroke="#4791ff" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>
