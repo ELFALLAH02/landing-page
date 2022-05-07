@@ -1,0 +1,204 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+div#he {background-color: white;width: auto;height: 61px;}
+
+img {width: 483px;}
+
+
+
+body {
+    background-color: #eceff9;
+    
+    
+}
+#loginlogo{
+    width: 183px;
+    
+    position: relative;
+    top: 9px;
+    left: 20px;
+}
+#lok{
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+    display: FLEX;
+    font-family: sans-serif;
+}
+
+.container {
+    position: relative;
+    margin-top: -13px;
+    width: 450px;
+    height: auto;
+    background-color: #ffffff;
+    border-radius: 22px;
+}
+
+.lable {
+    padding: 20px 130px;
+    font-size: 30px;
+    font-weight: bold;
+    color: #000000;
+left: -13px;position: relative;}
+
+.login_form {
+    padding: 20px 40px;
+}
+.login_form .font {
+    font-size: 16px;
+    color: #000000;
+    margin: 5px 0;
+}
+.login_form input {
+    height: 40px;
+    width: 363px;
+    padding: 0 5px;
+    font-size: 16px;
+    outline: none;
+    
+    border: 1px solid silver;
+}
+.login_form input:hover {
+    /* border-radius: 9px; */
+    background: white;
+    border-bottom: 1px solid #468afa;
+}
+
+
+.login_form input:focus {
+    background: lightblue;
+}
+.login_form .font_2 {
+    margin-top: 30px;
+}
+.login_form button {
+    /* margin: 48px -357px 30px 14px; */
+    height: 45px;
+    width: 363px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    outline: none;
+    cursor: pointer;
+    background: #468afa;
+    border-radius: 10px;
+    border: 1px solid #ffffff;
+    transition: .5s;
+position: relative;top: 33px;}
+.login_form button:hover {
+    background: #455a64;
+}
+.login_form #email_error, .login_form #pass_error {
+    margin-top: 5px;
+    width: 345px;
+    font-size: 16px;
+    color: #C62828;
+    background: rgba(255, 0, 0, 0.1);
+    text-align: center;
+    padding: 5px 8px;
+    border-radius: 3px;
+    border: 1px solid #EF9A9A;
+    display: none;
+}
+
+.ddd{
+    
+    
+    width: 445px;
+    height: 402px;
+    background-color: #ffffff;
+    border-radius: 11px;
+position: relative;left: 606px;top: 121px;}
+#linkr{
+    font-size: 12px;
+    color: #468afa;
+    font-family: sans-serif;
+position: relative;top: 7px;left: 12px;}
+
+#pic{
+    
+   position: relative;
+   left: -571px;
+   top: 131px;}
+
+.ok{
+    border-radius: 6px;
+}
+
+@media only screen and (max-width: 390px) {
+    body {
+      background-color: #eceff9;
+    }
+    #pic{
+      width: 71px;
+    }
+    img {width: 335px;position: relative;top: -151px;left: 245px;}
+    .ddd{
+        
+    position: relative;top: 362px;left: 35px;width: 370px;}
+    .ok{
+        
+    position: relative;left: -24px;}
+    .login_form input{
+        width: 112%;
+    }
+    .login_form button{
+
+    width: 116%;position: relative;left: -25px;}
+    .lable{
+
+    text-align: center;position: relative;left: -53px;}
+    #loginlogo{
+
+    
+  width: 141px;margin: 4px;left: 11px;}
+  div#he{
+      
+  }
+  .login_form .font {
+    font-size: 16px;
+    color: #000000;
+    margin: 5px 0;
+position: relative;left: -20px;}
+.login_form .font_2 {
+    margin-top: 30px;
+}
+#linkr{
+    
+position: relative;left: -21px;}
+.login_form #email_error, .login_form #pass_error{
+    
+position: relative;
+left: -24px;
+width: 109%;}
+
+}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
