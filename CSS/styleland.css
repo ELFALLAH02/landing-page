@@ -1,0 +1,756 @@
+video::-webkit-media-controls {
+  display: none;
+}
+.body{
+  background-color: #FCFBFD;
+  font-family: Proxima Nova, proxima-nova, sans-serif;
+}
+.list-item a {
+  color: black;
+  font-family: 'proxima-nova', sans-serif;
+  font-size: medium;
+  overflow: visible;
+  line-height: 40px;
+	text-align: center;
+  font-weight: 500px;
+  letter-spacing: -0.01em;
+  margin-left: 50px;
+  margin-top: 10px;
+
+
+
+
+}
+#logo{
+  margin-top: 10px;
+  margin: 10px;
+}
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+li {
+  display: inline;
+  padding: 4px;
+  margin: 2px;
+  margin-top: 8px;
+  left: -7px;
+  position: relative;
+}
+.list-item2 a{
+  color: rgb(255, 255, 255);
+  font-family: 'proxima-nova', sans-serif;
+  font-size: medium;
+  display: inline;
+  padding: 10px;
+  margin: 5px;
+  line-height: 40px;
+  margin-top: 10px;
+  list-style-type: none;
+}
+button.lok{
+  border: none;
+
+  width: 130.75px;
+  height: 43px;
+  font-weight: bold;
+  border-radius: 19px;
+  background: #468afa;
+ }
+
+#nav1{
+ 
+ height: 51px;
+ margin-left:240px;
+
+ 
+ 
+}
+
+
+a.ok{
+  color: #fff;
+}
+
+.navbar {
+  display: flex;
+  }
+
+#pic{
+   position: absolute;
+		width: 561px;
+		height: 537px;
+		left: 680px;
+		top: 137px;
+		overflow: visible;
+}
+
+
+::-webkit-scrollbar{
+  display: none;
+}
+#title{
+  left: 50px;
+  top: 208px;
+  position: absolute;
+  overflow: visible;
+  width: 625px;
+  height: 212px;
+  line-height: 100px;
+  margin-top: -15px;
+  text-align: left;
+  font-family: Proxima Nova, proxima-nova, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 77px;
+  color: rgba(26,26,26,1);
+  letter-spacing: -0.1px;
+}
+#pra{
+  left: 10px;
+  top: 405px;
+  position: absolute;
+  overflow: visible;
+  width: 558px;
+  height: 85px;
+  line-height: 26px;
+  margin-top: -3px;
+  text-align: left;
+  font-family: Proxima Nova, proxima-nova, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgb(31, 31, 31);
+}
+.list-item3 a{
+  color: rgb(255, 255, 255);
+  font-family: 'proxima-nova', sans-serif;
+  font-size: medium;
+  display: inline;
+  padding: 10px;
+  margin: 5px;
+  line-height: 40px;
+  margin-top: 10px;
+  list-style-type: none;
+}
+button.butn{
+    width: 154px;
+    height: 49px;
+    border-radius: 23px;
+    background: #5a97fa;
+    box-shadow: 0px 10px 6px rgba(0, 0, 0, 0.16);
+    border: none;
+		position: absolute;
+		overflow: visible;
+    left: 49px;
+		top: 522px;
+   	line-height: 28px;
+		margin-top: -2px;	
+		font-family: Proxima Nova, proxima-nova, sans-serif;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 22px;
+	
+   
+  
+}
+
+#dd{
+  left: 218px;
+  top: 535px;
+  position: absolute;
+  line-height: 26px;
+  margin-top: -4px;
+  text-align: center;
+  font-family: Proxima Nova, proxima-nova, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  color: rgba(0,0,0,1);
+  display: inline;
+  width: 101px;
+}
+#hard1{
+  width: 980px;
+  height: 87px;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.16);
+  position: absolute;
+  left: 140px;
+	top: 753px;
+
+}
+
+#vid1{
+  margin: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+#cap2{
+
+  left: 380px;
+	top: 2px;
+  position: absolute;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+#meta3{
+  left: 700px;
+	top: 2px;
+  position: absolute;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+h3{
+  display: inline;
+  margin: 20px;
+  position: absolute;
+  overflow: visible;
+  width: 190px;
+  height: 34px;
+  text-align: left;
+  font-family: Proxima Nova, proxima-nova, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: black;
+}
+h2.title1{
+  left: 463px;
+  top: 916px;
+  position: absolute;
+  overflow: visible;
+  width: 336px;
+  height: 54px;
+  line-height: 120px;
+  margin-top: -45px;
+  text-align: center;
+  font-family: Proxima Nova, proxima-nova, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  color: rgba(0,0,0,1);
+  letter-spacing: -0.1px;
+}
+#imgintro{
+  top: 1020px;
+  position: absolute;
+}
+
+.listimg img{}
+#titlemindiv{
+  top: 1090px;
+	position: absolute;
+	overflow: visible;
+}
+.titlemin h5{
+  display: unset;
+  font-family: Proxima Nova, proxima-nova, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  overflow: visible;
+  padding-inline-start: 80px;
+  padding-right: 123px;
+}
+#text1{
+  top: 1109px;
+	position: absolute;
+	overflow: visible;
+
+}
+.T1{
+  text-align: center;
+  font-family: Proxima Nova, proxima-nova, sans-serif;
+  font-style: normal;
+  font-size: 18px;
+  
+}
+#text01{
+  left: -1px;
+	top: 30px;
+	position: absolute;
+}
+#text02{
+  left:394px;
+	top: 30px;
+	position: absolute;
+}
+#text03{
+  left: 808px;
+ 
+	top: 30px;
+	position: absolute;
+}
+h2.title2{
+  top: 1400px;
+  position: absolute;
+  left: 405px;
+  text-align: center;
+  font-family: Proxima Nova, proxima-nova, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+
+
+}
+#card1{
+  border-radius: 26px;
+  box-shadow: 3px 9px 51px 11px rgb(0 0 0 / 16%);
+  filter: drop-shadow(5px 9px 5px 6px rgba(0, 0, 0, 0.161));
+  position: absolute;
+  overflow: visible;
+  width: 246px;
+  height: 204px;
+  top: 1625px;
+  transition: all 0.4s ease;
+  position: absolute;
+  left: 115px;
+}
+#m1{
+  
+position: absolute;
+  
+overflow: visible;
+  
+/* margin: 55px; */
+  
+/* margin-top: 25px; */
+  
+/* left: 30px; */
+}
+#t1{
+  width: 170px;
+  height: 29px;
+  text-align: center;
+  font-family: Proxima Nova, proxima-nova, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  margin: 30px;
+ 
+ 
+}
+#card2{
+  border-radius: 26px;
+  box-shadow: 3px 9px 51px 11px rgb(0 0 0 / 16%);
+  filter: drop-shadow(5px 9px 5px 6px rgba(0, 0, 0, 0.161));
+  position: absolute;
+  overflow: visible;
+  width: 246px;
+  height: 204px;
+  top: 1625px;
+  transition: all 0.4s ease;
+  position: absolute;
+  left: 383px;
+}
+#t2{
+  width: 170px;
+  height: 29px;
+  text-align: center;
+  font-family: Proxima Nova, proxima-nova, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  margin: 30px;
+ 
+}
+#m2{
+  
+  position: absolute;
+  overflow: visible;
+  margin: 55px;
+  margin-top: 25px;
+  left: 30px;
+
+}
+#card3{
+  border-radius: 26px;
+  box-shadow: 3px 9px 51px 11px rgb(0 0 0 / 16%);
+  filter: drop-shadow(5px 9px 5px 6px rgba(0, 0, 0, 0.161));
+  position: absolute;
+  overflow: visible;
+  width: 246px;
+  height: 204px;
+  transition: all 0.4s ease;
+  top: 1625px;
+  position: absolute;
+  left: 649px;
+}
+#t3{
+  width: 170px;
+  height: 29px;
+  text-align: center;
+  font-family: Proxima Nova, proxima-nova, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  margin: 30px;
+ 
+}
+#m3{
+  
+  position: absolute;
+  overflow: visible;
+  margin: 55px;
+  margin-top: 25px;
+  left: 30px;
+
+}
+#card4{
+  border-radius: 26px;
+  box-shadow: 3px 9px 51px 11px rgb(0 0 0 / 16%);
+  filter: drop-shadow(5px 9px 5px 6px rgba(0, 0, 0, 0.161));
+  position: absolute;
+  overflow: visible;
+  width: 246px;
+  height: 204px;
+  top: 1625px;
+  transition: all 0.4s ease;
+  position: absolute;
+  left: 915px;
+}
+#t4{
+  width: 170px;
+  height: 29px;
+  text-align: center;
+  font-family: Proxima Nova, proxima-nova, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  margin: 30px;
+ 
+}
+#m4{
+  
+  position: absolute;
+  overflow: visible;
+  margin: 55px;
+  margin-top: 25px;
+  left: 30px;
+
+}
+#btn{
+  background-color: #D5E5FD;
+  color: #D5E5FD;
+  width: 238px;
+  height: 43px;
+  border: none;
+  border-radius: 23px 0px 23px 0px;
+	overflow: visible;
+	position: absolute;
+	left: 511px;
+	top: 1885px;
+  font-family: Proxima Nova, proxima-nova, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+  
+
+}
+#tile{left: 349px;
+  top: 1985px;
+  position: absolute;
+  overflow: visible;
+  width: 563px;
+  height: 46px;
+  text-align: center;
+  font-family: Proxima Nova, proxima-nova, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+
+}
+#cour1{
+  position: absolute;
+  overflow: visible;
+  width: 228px;
+  height: 351px;
+  left: 102px;
+  top: 2102px;
+  border-radius: 10px;
+  transition: all 0.4s ease;
+  box-shadow: 0px 3px 6px  rgba(0, 0, 0, 0.161);
+}
+#cour2
+{
+  position: absolute;
+  overflow: visible;
+  width: 228px;
+  transition: all 0.4s ease;
+  height: 351px;
+  left: 102px;
+  top: 2102px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 6px  rgba(0, 0, 0, 0.161);
+}
+.ico{
+  width: 128px;
+  height: 23px;
+  border-radius: 6px;
+  background: #FEDCE0;
+}
+.tcour{
+  width: 206px;
+  height: 46px;
+  font-family: "Proxima Nova";
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 26px;
+  text-align: left;
+  color: #000;
+  padding: 10px;
+  
+}
+#time1{
+   margin: 20px;
+  
+
+}
+#timet2{
+  margin: -16px;
+  margin-left: 29px;}
+
+#btn1{
+  position: absolute;
+  overflow: visible;
+  width: 157px;
+  height: 35px;
+  background-color: #2C395A; 
+  border: none;
+  border-radius: 6px;
+
+}
+#a1{
+  font-family: Proxima Nova, proxima-nova, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  color: rgb(255,255,255)
+}
+#a2{
+  
+    font-family: Proxima Nova, proxima-nova, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(255,255,255)
+  
+}
+#sed{
+  width: 1176px;
+  height: 491px;
+  border-radius: 26px;
+  background: #468afa;
+  margin-top: 50px;
+  /* margin-left: 41px; */
+}
+#btn2{
+  width: 230px;
+  height: 59px;
+  border-radius: 18px;
+  background: #fba52b;
+  border: none;
+  margin: 0px;
+}
+.t5{
+ 
+line-height: 50px;
+ 
+margin-top: -3px;
+ 
+text-align: left;
+ 
+font-family: Proxima Nova, proxima-nova, sans-serif;
+ 
+font-style: normal;
+ 
+font-weight: bold;
+ 
+font-size: 50;
+ 
+color: rgba(255,255,255,1);
+ 
+letter-spacing: -0.1px;
+}
+#l1{
+  width: 563px;
+  height: 80px;
+  font-family: "Proxima Nova";
+  font-weight: 600;
+  font-size: 24px;
+  letter-spacing: -0.01em;
+  line-height: 30px;
+  text-align: left;
+  font-size: 20px;
+  color: white;
+  margin: 0;
+}
+#line{
+  width: 1269.03px;
+
+  background: transparent;
+   border: 1px solid #000;
+   opacity: 0.5;
+
+}
+#foot{
+  width: 1031px;
+height: 122px;
+border-radius: 18px;
+background: #d5e5fd;
+opacity: 0.48;
+
+}
+#foot1{
+ 
+font-family: "Proxima Nova";
+font-weight: bold;
+font-size: 24px;
+letter-spacing: -0.01em;
+line-height: 28px;
+color: #1a1a1a;
+
+}
+#foot-5{
+  font-family: "Proxima Nova";
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: -0.01em;
+  line-height: 28px;
+  text-align: left;
+  color: #000;
+  
+}
+#footlined{
+  width: 541px;
+height: 28px;
+font-family: "Proxima Nova";
+font-weight: normal;
+font-size: 17px;
+text-align: left;
+color: #707070;
+
+  
+  
+  
+  
+}
+#footinput{
+  width: 425px;
+height: 45px;
+border-radius: 22.5px;
+background: #fff;
+border: none;
+
+
+}
+#oussama{
+  position:relative;
+  -webkit-animation:glide 1s ease-in-out alternate infinite;
+}
+@-webkit-keyframes glide  {
+  from {
+     left:0px;
+     top:0px;
+  }
+  
+  to {
+     left:0px;
+     top:20px;
+  }
+
+}
+html{
+  scrollbar-width: none;
+}
+.lix{
+  animation: hidex ;
+  animation-duration: 2s;
+  animation-play-state: running;
+  animation-iteration-count: infinite;
+}
+@keyframes hidex{
+  0%{
+      opacity: 1;
+  }
+  100%{
+      opacity: 0;
+  }
+}
+.shine_2{
+  animation: Me ;
+  animation-duration: 4s;
+  animation-play-state: running;
+  animation-iteration-count: infinite;
+}
+@keyframes Me{
+  0%{
+      opacity: 1;
+  }
+  100%{
+      opacity: 0;
+  }
+}
+#pic1{
+  position: relative;
+  left: 189px;
+  top: 36px;
+}
+#pic2{
+  position: relative;
+  left: 583px;
+}
+#pic3{
+  position: relative;
+  left: 1005px;
+  top: -40px;
+}
+@keyframes SaadFirstAnimation {
+  from {
+    transform: translateY(-0px);
+  }
+
+  to {
+    transform: translateY(-25px);
+  }
+}
+
+#oussama {
+  animation-duration: 1.5s;
+  animation-name: SaadFirstAnimation;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+div#cour1:Hover {
+    transform: translateY(-15px);
+}
+
+div#cour1 {}
+
+div#cour2:hover { transform: translateY(-15px);}
+
+div#card1:Hover {
+    transform: translateY(-15px);
+}
+
+div#card3:hover {
+    transform: translateY(-15px);
+}
+
+div#card2:hover {
+    transform: translateY(-15px);
+}
+
+div#card4:hover {
+    transform: translateY(-15px);
+}
+
+div#nav3 {position: relative;
+  left: -29px;
+  top: -85px;}
