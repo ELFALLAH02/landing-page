@@ -1,0 +1,48 @@
+@media only screen and (max-width: 390px) {
+  body {
+    background-color: #eceff9;
+  }
+  #pic{
+    width: 71px;
+  }
+  img {width: 489px;position: relative;top: -151px;left: 245px;}
+  .ddd{
+      
+  position: relative;top: 362px;left: 35px;width: 370px;}
+  .ok{
+      
+  position: relative;left: -24px;}
+  .login_form input{
+      width: 112%;
+  }
+  .login_form button{
+
+  width: 116%;position: relative;left: -25px;}
+  .lable{
+
+  text-align: center;position: relative;left: -53px;}
+  #loginlogo{
+
+  
+width: 141px;margin: 4px;left: 11px;}
+div#he{
+    
+}
+.login_form .font {
+  font-size: 16px;
+  color: #000000;
+  margin: 5px 0;
+position: relative;left: -20px;}
+.login_form .font_2 {
+  margin-top: 30px;
+}
+#linkr{
+  
+position: relative;left: -21px;}
+.login_form #email_error, .login_form #pass_error{
+  
+position: relative;
+left: -24px;
+width: 109%;}
+
+}
