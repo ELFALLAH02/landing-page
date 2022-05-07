@@ -1,0 +1,85 @@
+div{
+  display: flex;
+  text-align: center;
+  position: relative;
+  top: 142px;
+  align-items: baseline;
+  justify-content: space-evenly;
+}
+.lix{
+  animation: hidex ;
+  animation-duration: 1.2s;
+  animation-play-state: running;
+  animation-iteration-count: infinite;
+}
+@keyframes hidex{
+  0%{
+      opacity: 1;
+  }
+  100%{
+      opacity: 0;
+  }
+}
+.shine_2{
+  animation: Me ;
+  animation-duration: 4s;
+  animation-play-state: running;
+  animation-iteration-count: infinite;
+}
+
+@keyframes Me{
+  0%{
+      opacity: 1;
+  }
+  100%{
+      opacity: 0;
+  }
+}
+@keyframes SaadFirstAnimation {
+  from {
+    transform: translateY(-0px);
+  }
+
+  to {
+    transform: translateY(-15px);
+  }
+}
+
+ #girl12{
+  animation-duration: 1s;
+  animation-name: SaadFirstAnimation;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+@keyframes SaadFirstAnimation {
+  from {
+    transform: translateY(-0px);
+  }
+
+  to {
+    transform: translateY(-15px);
+  }
+}
+
+.hrd1{
+  animation-duration: 1s;
+  animation-name: SaadFirstAnimation;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+@keyframes SaadFirstAnimation {
+  from {
+    transform: translateY(-0px);
+  }
+
+  to {
+    transform: translateY(-15px);
+  }
+}
+
+ #boya{
+  animation-duration: 1s;
+  animation-name: SaadFirstAnimation;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
